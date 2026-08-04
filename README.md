@@ -1,19 +1,22 @@
-# Student Performance Predictor ML
+# 🎓 Student Performance Predictor ML
 
-## Project Overview
+## 📌 Overview
 
-This project predicts a student's final exam score using Machine Learning.
+This project predicts students' exam scores using Machine Learning.
 
-The project includes:
+The project demonstrates the complete ML workflow:
 
-- Data Analysis
+- Data Collection
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Linear Regression
+- Exploratory Data Analysis
+- Feature Engineering
+- Model Training
 - Model Evaluation
 - Streamlit Web Application
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 - Python
 - Pandas
@@ -23,6 +26,15 @@ The project includes:
 - Scikit-learn
 - Streamlit
 
-## Project Status
+---
 
-🚧 Day 1 - Project Setup & Dataset Exploration"# student-performance-predictor-ml" 
+## 📅 Progress
+
+- ✅ Day 1 - Project Setup
+- ✅ Day 2 - Exploratory Data Analysis
+- ✅ Day 3 - Data Preprocessing
+- ⏳ Day 4 - Model Training
+- ⏳ Day 5 - Web Application
+- ⏳ Day 6 - Deployment
+
+---
